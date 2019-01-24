@@ -17,7 +17,7 @@
 </tr>
 <tr>
     <td>账号</td>
-    <td>[点我获取](https://free.5mu.me</td>
+    <td>[点我获取](https://free.5mu.me)</td>
     <td>正常</td>
     <td>高可用</td>
 </tr>
