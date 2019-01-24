@@ -1,6 +1,6 @@
 # 红杏SS - 春色满园关不住，一枝红杏出墙来。
 
-#### <a target="_blank" href="https://free.5mu.me">临时账号</a>
+#### [临时账号](https://free.5mu.me){:target="_blank"}
 
 #### 💗永久域名：[hxingss.com](http://hxingss.com)（已被墙，需要开启全局代理访问。）
 
