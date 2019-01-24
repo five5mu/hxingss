@@ -2,7 +2,7 @@
 
 ### 临时账号
 
-[点我获取](https://free.5mu.me)，每小时自动改变端口和密码
+> 每小时自动改变端口和密码，[点我获取](https://free.5mu.me)
 
 #### 💗永久域名：[hxingss.com](http://hxingss.com)（已被墙，需要开启全局代理访问。）
 
