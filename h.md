@@ -6,26 +6,6 @@
 
 > 临时账号每小时会自动变更端口信息和密码。
 
-
-<table>
-<tr>
-    <td>临时账号</td>
-    <td>点击获取👇</td>
-    <td>服务</td>
-    <td>状态</td>
-</tr>
-<tr>
-    <td>账号</td>
-    <td> [点我获取](https://free.5mu.me) </td>
-    <td>正常</td>
-    <td>高可用</td>
-</tr>
-<tr>
-    <td colspan="4">临时账号每小时会自动变更端口信息和密码。</td>
-</tr>
-</table>
-
-
 #### 💗永久域名：[hxingss.com](http://hxingss.com)（已被墙，需要开启全局代理访问。）
 
 ### 说明
