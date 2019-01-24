@@ -7,6 +7,48 @@
 
 > 临时账号每小时会自动变更端口信息和密码。
 
+
+<table>
+<tr>
+    <td rowspan="7"> 文件状态：<br/>
+        [√] 草稿<br/>
+        [√] 正在修改<br/>
+        [√] 正式发布 </td>
+    <td>文件标识：</td>
+    <td> </td>
+</tr>
+<tr>
+    <td>当前版本：</td>
+    <td>2.7</td>
+</tr>
+<tr>
+    <td>作    者：</td>
+    <td></td>
+</tr>
+<tr>
+    <td>创建日期：</td>
+    <td></td>
+</tr>
+<tr>
+    <td>最后更新：</td>
+    <td></td>
+</tr>
+<tr>
+    <td>密    级：</td>
+    <td></td>
+</tr>
+<tr>
+    <td>版权说明：</td>
+    <td></td>
+</tr>
+</table>
+--------------------- 
+作者：loongshawn 
+来源：CSDN 
+原文：https://blog.csdn.net/loongshawn/article/details/72829090 
+版权声明：本文为博主原创文章，转载请附上博文链接！
+
+
 #### 💗永久域名：[hxingss.com](http://hxingss.com)（已被墙，需要开启全局代理访问。）
 
 ### 说明
