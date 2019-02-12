@@ -12,7 +12,7 @@
 > 3. 上面表格会持续更新临时墙内地址，放走丢请收藏本链接👇
 > 4. 请收藏：https://github.com/five5mu/hxingss/blob/h/h.md
 
-### 💗永久域名：[hxingss.com](http://hxingss.com)（已被墙，需要开启全局代理访问。）
+#### 💗永久域名：[hxingss.com](http://hxingss.com)（已被墙，需要开启全局代理访问。）
 
 > 老用户推荐牢记永久域名，然后每次续费提前几天。
 
