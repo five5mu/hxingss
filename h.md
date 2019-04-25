@@ -1,4 +1,4 @@
-# D7 Networks Ltd.
+# D7 Networks
 
 ### 红杏SS - 春色满园关不住，一枝红杏出墙来。
 
