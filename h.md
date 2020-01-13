@@ -2,11 +2,9 @@
 
 ### 红杏 - 春色满园关不住，一枝红杏出墙来。
 
-#### 💗永久域名：[FKwall.com](http://fkwall.com)（已被墙，需要开启全局代理访问。）
+#### 💗永久域名：[HxingSS.com](http://hxingss.com)（已被墙，需要开启全局代理访问。）
 
-##### 临时地址：https://tmp.hxingss-tmp1.xyz
-
-|  id  | 表头  | 临时地址 |
+|  id  | 表头  | [临时地址] |
 | :----: | :----: | :----: |
 | 1 | 临时地址1 | https://tmp.hxingss-tmp1.xyz |
 | 2 | 临时地址2 | ... |
