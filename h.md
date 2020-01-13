@@ -4,6 +4,8 @@
 
 #### 💗永久域名：[FKwall.com](http://fkwall.com)（已被墙，需要开启全局代理访问。）
 
+##### 临时地址：https://tmp.hxingss-tmp1.xyz
+
 ### 说明
 
 > 1. 因众所周知的原因，我们的域名经常被墙。
